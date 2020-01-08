@@ -2,6 +2,9 @@
 
 > Unofficial Port of the VSCode theme [Horizon](https://github.com/jolaleye/horizon-theme-vscode) to Hyper
 
+![screenshot](https://user-images.githubusercontent.com/29304238/72005634-6dae2f00-3291-11ea-9d6d-25994ee18419.png)
+
+
 ## Install
 
 ```sh
@@ -19,6 +22,9 @@ config: {
 	horizonTheme: '',
 }
 ```
+
+![screenshot for bright theme](https://user-images.githubusercontent.com/29304238/72005647-74d53d00-3291-11ea-8ed9-ad5b289c2838.png)
+
 
 ## Licence
 

@@ -1,9 +1,10 @@
 const normal = {
+	tabColor: '#E9436D',
 	backgroundColor: '#1C1E26',
 	foregroundColor: '#D5D8DA',
 	borderColor: '#1A1C23',
-	cursorColor: 'rgba(46, 48, 62, 0.8)',
-	selectionColor: 'rgba(46, 48, 62, 0.5)',
+	cursorColor: 'rgba(46, 48, 62, 0.9)',
+	selectionColor: 'rgba(46, 48, 62, 0.9)',
 	lightBlue: '#26BBD9',
 	lightCyan: '#59E1E3',
 	lightGreen: '#29D398',
@@ -21,6 +22,7 @@ const normal = {
 }
 
 const bright = {
+	tabColor: '#E73665',
 	backgroundColor: '#FDF0ED',
 	foregroundColor: '#06060C',
 	borderColor: '#1A1C23',

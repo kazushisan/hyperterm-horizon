@@ -53,6 +53,22 @@ exports.decorateConfig = config => {
 			white
 		},
 		css: `
+			.hyper_main {
+				border: none;
+			}
+		
+			.tabs_title, .tab_tab {
+				color: ${foregroundColor};
+			}
+
+			.tabs_borderShim {
+				display: none;
+			}
+
+			.tab_tab {
+				border: none;
+			}
+
 			.tab_tab.tab_active::before {
 				content: '';
 				position: absolute;

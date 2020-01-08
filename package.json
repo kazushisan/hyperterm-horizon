@@ -1,0 +1,15 @@
+{
+  "name": "hyperterm-horizon",
+  "version": "0.1.1",
+  "description": "Unofficial Port of the VSCode theme to Hyper",
+  "main": "index.js",
+  "repository": "https://github.com/kazushisan/hyperterm-horizon.git",
+  "author": "Kazushi Konosu <kazushi@konosu.me>",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier *.js"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}

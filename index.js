@@ -3,10 +3,7 @@
 const colors = require('./colors')
 
 exports.decorateConfig = config => {
-	const themeConfig = config.horizonTheme || {}
-
-	const selectedTheme =
-		themeConfig.theme === 'bright' ? 'bright' : 'normal'
+	const selectedTheme = config.horizonTheme === 'bright' ? 'bright' : 'normal'
 
 	const {
 		tabColor,

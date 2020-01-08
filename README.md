@@ -11,7 +11,7 @@
 hyper install hyperterm-horizon
 ```
 
-### Configure
+## Configure
 
 This theme includes a light variant. Add the following to `~/.hyper.js` in order to specify the variant. (optional)
 
@@ -20,6 +20,7 @@ config: {
 	...
 	// OPTIONS: 'bright', 'normal', ''
 	horizonTheme: '',
+	...
 }
 ```
 

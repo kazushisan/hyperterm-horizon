@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-horizon",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Unofficial Port of the VSCode theme to Hyper",
   "main": "index.js",
   "repository": "https://github.com/kazushisan/hyperterm-horizon.git",
@@ -11,5 +11,12 @@
   },
   "devDependencies": {
     "prettier": "^1.19.1"
-  }
+  },
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "hyper.app",
+    "horizon",
+    "theme"
+  ]
 }

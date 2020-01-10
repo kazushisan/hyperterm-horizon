@@ -1,7 +1,7 @@
 {
   "name": "hyperterm-horizon",
   "version": "1.0.0",
-  "description": "Unofficial Port of the VSCode theme to Hyper",
+  "description": "Unofficial port of the VSCode theme to Hyper",
   "main": "index.js",
   "repository": "https://github.com/kazushisan/hyperterm-horizon.git",
   "author": "Kazushi Konosu <kazushi@konosu.me>",
